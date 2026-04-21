@@ -27,6 +27,7 @@ This project analyzes correlations between different variables in a movie datase
 - Score and other variables have weaker relationships
 
 ## Dataset
+The dataset used in this project is included in this repository (movies.csv).
 Movies dataset containing information about:
 - Budget
 - Gross earnings
